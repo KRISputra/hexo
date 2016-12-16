@@ -5,12 +5,12 @@ date: 2016-12-09 01:31:25
 # Aktiviti 2016
 Aktiviti                                                                      |Tarikh
 ------------------------------------------------------------------------------|------
-Ceramah & Majlis Doa Selamat Bagi Bakal Haji PPj 1437H/2016M<br>[Biro Agama](../jawatankuasa/biro-agama)          |11 Ogos 2016
-Majlis Ibadah Qurban 1437H/2016<br>[Biro Agama](../jawatankuasa/biro-agama)          |12 September 2016
-Ceramah Sempena Maal Hijrah 1438H<br>[Biro Agama](../jawatankuasa/biro-agama)          |12 Oktober 2016
+Ceramah & Majlis Doa Selamat Bagi Bakal Haji PPj 1437H/2016M<br>[Biro Agama](../jawatankuasa/biro-agama)<br>[Album](../galeri/#nanogallery/nanoGallery/72157673487045514)|11 Ogos 2016
+Majlis Ibadah Qurban 1437H/2016<br>[Biro Agama](../jawatankuasa/biro-agama)<br>[Album](../galeri/#nanogallery/nanoGallery/72157673486497604)|12 September 2016
+Ceramah Sempena Maal Hijrah 1438H<br>[Biro Agama](../jawatankuasa/biro-agama)<br>[Album](../galeri/#nanogallery/nanoGallery/72157674065240533)|12 Oktober 2016
 Hari Alam Sekitar Negara & Program Joran Bersama Komuniti<br>[Biro Rekreasi](../jawatankuasa/biro-rekreasi)          |22 Oktober 2016
-Tilawah Al-Quran Kanak-kanak<br>[Biro Pendidikan](../jawatankuasa/biro-pendidikan)|15 Disember 2016
-Anugerah Pelajar Cemerlang 2015 & 2016<br>[Biro Pendidikan](../jawatankuasa/biro-pendidikan)|15 Disember 2016
+Tilawah Al-Quran Kanak-kanak<br>[Biro Pendidikan](../jawatankuasa/biro-pendidikan)<br>[Album](../galeri/#nanogallery/nanoGallery/72157677816436796)|15 Disember 2016
+Anugerah Pelajar Cemerlang 2015 & 2016<br>[Biro Pendidikan](../jawatankuasa/biro-pendidikan)<br>[Album](../galeri/#nanogallery/nanoGallery/72157677816378106)|15 Disember 2016
 Sambutan Maulidur Rasul      <br>[Biro Agama](../jawatankuasa/biro-agama)          |15 Disember 2016
 LAMPU Foodtruck@LAMPU       <br>[Biro Ekonomi](../jawatankuasa/biro-ekonomi)      |30-31 Disember 2016
 
