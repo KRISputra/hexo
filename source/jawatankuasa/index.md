@@ -18,7 +18,7 @@ Ketua [Biro Agama](/jawatankuasa/biro-agama/)           |En. Ahmad Tarmizi bin A
 Ketua [Biro Ekonomi](/jawatankuasa/biro-ekonomi/)       |Pn. Nor Azimah binti Jamaluddin
 Ketua [Biro Kebajikan](/jawatankuasa/biro-kebajikan/)   |En. Haris Kasim
 Ketua [Biro Pendidikan](/jawatankuasa/biro-pendidikan/) |Pn. Fadhlul Jannah binti Abd Karim
-Ketua [Biro Rekreasi](/jawatankuasa/biro-rekreasi/)     |YM. Tengku Marzuki Tengku Ismail
+Ketua [Biro Rekreasi](/jawatankuasa/biro-rekreasi/)     |YM Tengku Marzuki Tengku Ismail
 Ketua [Biro Seranta](/jawatankuasa/biro-serenta/)       |En. Hafidz bin Nasruddin
 Ketua [Biro Sosial, Kesenian & Kebudayaan](/jawatankuasa/biro-sosial-kesenian-kebudayaan/) |En. Mohd Faizal bin Ab Wahab Chu
 Ketua [Biro Sukan](/jawatankuasa/biro-sukan/)           |En. Mohd 'Afif bin Tajudin
