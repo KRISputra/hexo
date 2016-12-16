@@ -23,4 +23,4 @@ Ketua [Biro Seranta](/jawatankuasa/biro-seranta/)       |En. Hafidz bin Nasruddi
 Ketua [Biro Sosial, Kesenian & Kebudayaan](/jawatankuasa/biro-sosial-kesenian-kebudayaan/) |En. Mohd Faizal bin Ab Wahab Chu
 Ketua [Biro Sukan](/jawatankuasa/biro-sukan/)           |En. Mohd 'Afif bin Tajudin
 Juruaudit 1                                             |Pn. Maizatunnisa binti Mohtar
-Juruaudit 2                                             |
+Juruaudit 2                                             |En. Shafee bin Marsi @ Hussin
