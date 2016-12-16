@@ -6,7 +6,8 @@ date: 2016-12-09 01:31:25
 Aktiviti                                                                      |Tarikh
 ------------------------------------------------------------------------------|------
 Tilawah Al-Quran Kanak-kanak<br>[Biro Pendidikan](../jawatankuasa/biro-pendidikan)|15 Disember 2016
-Ceramah Maulidur Rasul      <br>[Biro Agama](../jawatankuasa/biro-agama)          |23 Disember 2016
+Anugerah Pelajar Cemerlang 2015 & 2016<br>[Biro Pendidikan](../jawatankuasa/biro-pendidikan)|15 Disember 2016
+Ceramah Maulidur Rasul      <br>[Biro Agama](../jawatankuasa/biro-agama)          |15 Disember 2016
 LAMPU Foodtruck@LAMPU       <br>[Biro Ekonomi](../jawatankuasa/biro-ekonomi)      |30-31 Disember 2016
 
 # Aktiviti 2017
