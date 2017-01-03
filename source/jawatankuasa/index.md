@@ -6,11 +6,11 @@ date: 2016-12-08 22:41:16
 Jawatan                                             |Nama
 ----------------------------------------------------|-----
 [Pengerusi](/jawatankuasa/pengerusi/)               |YBhg. Datuk Azizi bin Ahmad Termizi
-Naib Pengerusi                                      |En. Rosli bin Abdul Talib
+[Timbalan Pengerusi](timb-pengerusi)                |En. Rosli bin Abdul Talib
 [Setiausaha Kehormat](/jawatankuasa/setiausaha)     |Pn. Norliana Akida binti Abd Rahim
-Penolong Setiausaha                                 |Pn. Ainol Mardhiah binti Mohd Khalid
+[Penolong Setiausaha](/jawatankuasa/setiausaha)     |Pn. Ainol Mardhiah binti Mohd Khalid
 [Bendahari Kehormat](/jawatankuasa/bendahari)       |Pn. Nur Syuhada binti Zaki
-Penolong Bendahari                                  |Cik Mardiah Mohamed Saleh
+[Penolong Bendahari](/jawatankuasa/bendahari)       |Cik Mardiah Mohamed Saleh
 ## Ahli Jawatankuasa           
 Jawatan                                                 |Nama
 --------------------------------------------------------|-----
@@ -22,5 +22,5 @@ Ketua [Biro Rekreasi](/jawatankuasa/biro-rekreasi/)     |YM Tengku Marzuki Tengk
 Ketua [Biro Seranta](/jawatankuasa/biro-seranta/)       |En. Hafidz bin Nasruddin
 Ketua [Biro Sosial, Kesenian & Kebudayaan](/jawatankuasa/biro-sosial-kesenian-kebudayaan/) |En. Mohd Faizal bin Ab Wahab Chu
 Ketua [Biro Sukan](/jawatankuasa/biro-sukan/)           |En. Mohd 'Afif bin Tajudin
-Juruaudit 1                                             |Pn. Maizatunnisa binti Mohtar
-Juruaudit 2                                             |En. Shafee bin Marsi @ Hussin
+[Juruaudit](/jawatankuasa/juruaudit/) 1                                             |Pn. Maizatunnisa binti Mohtar
+[Juruaudit](/jawatankuasa/juruaudit/) 2                                             |En. Shafee bin Marsi @ Hussin

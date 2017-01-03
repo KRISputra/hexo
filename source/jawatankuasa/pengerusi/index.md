@@ -2,6 +2,8 @@
 title: Pengerusi
 date: 2016-12-10 11:36:46
 ---
+# YBhg. Datuk Azizi bin Ahmad Termizi
+
 # Dari Meja Pengerusi KRISPutra Sesi 2016/2018
 Assalamualaikum dan Salam Sejahtera<img src="/azizipic.jpg" class="img-thumbnail pull-right">
 
