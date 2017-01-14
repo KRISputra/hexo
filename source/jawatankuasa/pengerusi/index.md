@@ -4,7 +4,7 @@ date: 2016-12-10 11:36:46
 ---
 # YBhg. Datuk Azizi bin Ahmad Termizi
 
-# Dari Meja Pengerusi KRISPutra Sesi 2016/2018
+# <span id="ucapan">Dari Meja Pengerusi KRISPutra Sesi 2016/2018</span>
 Assalamualaikum dan Salam Sejahtera<img src="/azizipic.jpg" class="img-thumbnail pull-right">
 
 "***KRISPutra*** adalah medium bagi semua ahli keluarga besar kita di Perbadanan Putrajaya untuk mengseimbangkan antara tugas hakiki seharian dengan aktiviti sosial dan rekreasi yang sihat. 

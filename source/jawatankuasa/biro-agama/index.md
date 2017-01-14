@@ -2,6 +2,8 @@
 title: Biro Agama
 date: 2016-12-10 11:36:46
 ---
+# Fungsi & Peranan
+lorem ipsum bla bla ....
 # Ketua Biro
 En. Ahmad Tarmizi bin Abdullah
 ## Ahli Jawatankuasa Kecil
