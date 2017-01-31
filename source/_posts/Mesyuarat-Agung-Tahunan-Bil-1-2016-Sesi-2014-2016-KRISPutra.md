@@ -15,4 +15,4 @@ Tahniah diucapkan kepada [YBhg. Datuk Azizi bin Ahmad Termizi](/jawatankuasa/pen
 
 Terima kasih juga diucapkan kepada barisan Jawatankuasa KRISPutra Sesi 2014-2016 atas sumbangan yang telah diberikan.
 
-[Album Gambar](/galeri/#nanogallery/nanoGallery/72157673978651874)
+<a class="btn btn-default" href="/galeri/#nanogallery/nanoGallery/72157673978651874" role="button"><span class="glyphicon glyphicon-picture" aria-hidden="true"></span> Lihat Gambar</a> <a class="btn btn-default" href="https://perbadananputrajaya-my.sharepoint.com/personal/hafidz_ppj_gov_my/_layouts/15/guestaccess.aspx?guestaccesstoken=oXM4tys7dJOwfJd4xklal6q0r6Oq3POAIfkNDYZnPI8=&docid=2_054770222e9fb41fba04baaab4fc91ac8&rev=1" role="button"><span class="glyphicon glyphicon-download" aria-hidden="true"></span> Laporan Biro-Biro</a>

@@ -2,6 +2,9 @@
 title: Biro Ekonomi
 date: 2016-12-10 11:36:46
 ---
+# Fungsi & Peranan
+Biro ini bertanggungjawab untuk merancang dan melaksanakan program-program yang boleh menjana ekonomi kepada kelab KRISputra.
+
 # Ketua Biro
 Pn. Nor Azimah binti Jamaluddin
 ## Ahli Jawatankuasa Kecil
@@ -22,3 +25,13 @@ Pn. Nor Azimah binti Jamaluddin
 * En. Zamri bin Jahari
 
 # Program & Aktiviti
+1. Foodtruck@LAMPU
+2. Foodtruck@Langkah Ceria 1
+3. Karnival Makanan Warisan @ Putrajaya
+4. Jualan Bazar Ramadhan
+5. Jualan Festival Ramadhan
+6. Foodtruck@Langkah Ceria 2
+7. Everything on The Wheel
+8. Foodtruck@Langkah Ceria 3
+9. Jualan Barangan Sukan
+10. Jualan Kembali ke Sekolah

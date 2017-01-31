@@ -2,6 +2,9 @@
 title: Biro Kebajikan
 date: 2016-12-10 11:36:46
 ---
+# Fungsi & Peranan
+Biro ini bertanggungjawab menjaga dan membantu ahli-ahlinya yang memerlukan bantuan dan pertolongan dengan memberi sedikit sumbangan berbentuk wang ringgit atau lain-lain bantuan bagi meringankan beban yang ditanggung oleh Ahli atau keluarga ahli.
+
 # Ketua Biro
 En. Haris Kasim
 ## Ahli Jawatankuasa Kecil

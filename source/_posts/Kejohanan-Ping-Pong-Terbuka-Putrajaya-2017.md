@@ -11,4 +11,4 @@ Edisi kedua penganjuran Kejohanan Ping Pong Terbuka Putrajaya 2017 telah mendapa
 
 KRISPutra telah menghantar penyertaan seramai 10 orang ke Kejohanan Ping Pong Terbuka Putrajaya 2017 yang berlangsung di Dewan Kompleks Kejiranan Presint 9 dan Presint 11, Putrajaya.
 
-[Album Gambar](/galeri/#nanogallery/nanoGallery/72157679254930235)
+<a class="btn btn-default" href="/galeri/#nanogallery/nanoGallery/72157679254930235" role="button"><span class="glyphicon glyphicon-picture" aria-hidden="true"></span> Lihat Gambar</a>
